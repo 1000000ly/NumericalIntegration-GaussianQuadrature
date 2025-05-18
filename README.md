@@ -31,15 +31,10 @@ Key objectives included:
 
 The weights are computed using the identity:
 
-$$
-w_k = \frac{\hat{S}_n(t_k)}{P_n'(t_k)}
-$$
+w_k = \frac{\hat{S}_n(t_k)}{P'_n(t_k)}
 
-where:
-
-$$
 \hat{S}_n(t) = \int_{-1}^{1} \frac{P_n(t) - P_n(x)}{t - x} \, dx
-$$
+
 
 
 These formulas are implemented symbolically in Maple and evaluated numerically for different values of \( n \).
