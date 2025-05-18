@@ -41,6 +41,7 @@ $$
 \hat{S}_n(t) = \int_{-1}^{1} \frac{P_n(t) - P_n(x)}{t - x} \, dx
 $$
 
+
 These formulas are implemented symbolically in Maple and evaluated numerically for different values of \( n \).
 
 
