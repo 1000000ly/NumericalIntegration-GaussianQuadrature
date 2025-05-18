@@ -31,9 +31,14 @@ Key objectives included:
 
 The weights are computed using the identity:
 
-w_k = \frac{\hat{S}_n(t_k)}{P'_n(t_k)}
+The weights are computed using the identity:
 
-\hat{S}_n(t) = \int_{-1}^{1} \frac{P_n(t) - P_n(x)}{t - x} \, dx
+![formula](https://latex.codecogs.com/svg.image?w_k%20=%20\frac{\hat{S}_n(t_k)}{P_n'(t_k)})
+
+where:
+
+![definition](https://latex.codecogs.com/svg.image?\hat{S}_n(t)%20=%20\int_{-1}^{1}%20\frac{P_n(t)-P_n(x)}{t-x}%20dx)
+
 
 
 
