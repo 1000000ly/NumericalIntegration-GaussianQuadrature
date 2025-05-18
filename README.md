@@ -1,6 +1,7 @@
 # NumericalIntegration-GaussianQuadrature
 
-This repository contains a symbolic and numerical implementation of n-point Gaussian quadrature using Legendre orthogonal polynomials, written in Maple. It was completed as part of the Numerical Methods module at the University of Liverpool.
+This repository contains a symbolic and numerical implementation of n-point Gaussian quadrature using Legendre orthogonal polynomials, written in Maple. It presents a complete symbolic and numerical derivation of n-point Gaussian quadrature based on Legendre orthogonal polynomials, with full validation of recurrence, weights, and integration accuracy.
+
 
 ---
 
